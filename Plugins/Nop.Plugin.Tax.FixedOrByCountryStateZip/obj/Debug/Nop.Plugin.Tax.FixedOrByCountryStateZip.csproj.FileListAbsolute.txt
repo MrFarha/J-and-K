@@ -1,0 +1,12 @@
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

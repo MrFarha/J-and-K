@@ -1,0 +1,11 @@
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Content\styles.css
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Views\Configure.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Description.txt
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\web.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\logo.jpg
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.pdb
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csproj.App.config
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.pdb

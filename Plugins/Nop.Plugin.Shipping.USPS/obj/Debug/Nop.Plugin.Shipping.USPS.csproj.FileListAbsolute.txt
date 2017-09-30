@@ -1,0 +1,10 @@
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\Configure.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.App.config
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

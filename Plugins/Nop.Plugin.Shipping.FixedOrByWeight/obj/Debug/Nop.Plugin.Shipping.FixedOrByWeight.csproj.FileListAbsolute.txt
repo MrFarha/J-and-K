@@ -1,0 +1,16 @@
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Description.txt
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\web.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\Configure.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_CreateOrUpdateRateByWeight.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\AddRateByWeightPopup.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\EditRateByWeightPopup.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_ByWeight.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Views\_FixedRate.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\logo.jpg
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Shipping.FixedOrByWeight\Nop.Plugin.Shipping.FixedOrByWeight.pdb
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csproj.App.config
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.csprojResolveAssemblyReference.cache
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.dll
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Shipping.FixedOrByWeight\obj\Debug\Nop.Plugin.Shipping.FixedOrByWeight.pdb

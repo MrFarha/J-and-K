@@ -1,0 +1,11 @@
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\MrFarha\Desktop\NOP Website\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\MrFarha\Desktop\NOP Website\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
